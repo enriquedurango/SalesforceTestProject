@@ -91,8 +91,8 @@ module.exports = function(grunt) {
       // individual orgs or even the same org with different packages
       dev1:  {
         options: {
-          user: 'enrique.durango@test.cwsboco.com', // storing my un/pw as env vars for security
-          pass: 'test12345miZQzIm9EuLn2A35AQEINhRK', // storing my un/pw as env vars for security
+          user: 'test@test.com', // storing my un/pw as env vars for security
+          pass: 'test1234', // storing my un/pw as env vars for security
         },
         pkg: {
           staticresource: ['*']
